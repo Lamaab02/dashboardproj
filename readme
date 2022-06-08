@@ -1,0 +1,5 @@
+My code isnt complete yet however this is what I have so far, in this project if the goal was to gauge an understanding of how I code and possibly show off some of my skills.
+in this project I have used react and created some hooks to some components
+also I worked on doing a very secure login and sign up system with help of firebase 
+in adition to that for the calander i used syncfusion already built in component
+I added 0 styling to this, just very basic bootstrap within this usually i would do some css styling but with tailwinds 
